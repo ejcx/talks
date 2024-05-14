@@ -1,0 +1,146 @@
+Version 1
+  - The last talk was a good overview on the basics of a security team / being an effective security team. I think it was good content but I think I can help with more stuff now, and more updated advice.
+	- The last talk was more geared towards "What to do” and a little bit of how to do it
+  - Had many folks reach out over the years some who have become customers of runreveal, friends, people who told me it helped them when they were starting.
+
+
+Version 2
+  - What is this talk
+	- I'm going to give you a roadmap for success, in order of importance, to survive a startup.
+	- I'll cover specific technical recommendations, career advice, projects you need to do, and more, handling incidents, etc.
+	- I want you to be able to able to refer to this talk any time you have a problem, whether you're a head of security, a tech lead, or a new grad.
+	- This talk will be "What to do" but also "How to do it", "How to decide on it" and "How to overcome your challenges".
+
+Imagine your first day of work
+  - It’s your first day, maybe it’s in  office. Maybe it’s just via zoom.
+  - If it’s in office you walk in and you’re probably thinking that the office is pretty mediocre. 
+  - If you’re logging into zoom it’s a super weird experience.
+  - The cto turns to you and asks. “So what are you going to do over your first 6 months. I hired you because I trust you to set the direction of all our company’s security initiatives.”
+  - And it’s in that very moment that you hear the proverbial record scratch. You realize you have absolutely no idea. And you hear the narrator say “Yup that’s me, you’re probably wondering how I got in this situation.”
+  - Well…. I’m here to help and I guarantee you that if you find yourself in that situation you can rely on this talk  
+
+Your first 30/60/90
+  - There’s been a lot of thinking out there that your first 90 days on a new job are critical. 
+  - Personally, I agree when it comes to startups. The whole point of startups is you are leading  To be successful at a startup you need to internalize what it means to be at a startup and recognize that
+
+30/60/90 Plan
+  - Regardless if you’re an IC security engineer, or a CISO, this is the framework that you really need to follow.
+  - Startups are about output, shipping, and moving quickly. You have to get on board with that and at the end of the 90 days, or very shortly thereafter, you need to have done something.
+  - You also need to have developed the relationships that are going to be important for you. Just as hypotheticals, if you’re working with engineers you need to have met those people and understand what they are working on. If you’re working with executives you need to understand the company strategy and how each one fits in with that strategy, and how you’ll be working with them.
+  - 30 days:
+    - Meet your stakeholders
+    - This is super hard in a zoom first world. Honestly, I don’t have great advice for really fostering connections via zoom.
+    - I hired a lot of people during the pandemic and it’s just harder. At Runreveal we sit in a call all day together and work together. It has worked really well, but this is an insane thing to do once you’re past like 10 people.
+  - 60:
+    - You need a path to accomplishing something.
+    - Identified some problems, found some common ground of things that should change.
+    - You need an idea of how you’re going to fix it, and then you need to fix it.
+  - 90 days:
+    - You need to accomplish something.
+    - If you don’t it’s likely you’ll struggle to be successful in the long term.
+
+Words for our CISO friends
+  - I don't think being the CISO or a security manager / director / head of security is all that different. You have stakeholders. You have peers. You will need to accomplish what you want to do by working with / through those people.
+  - Your 30/60/90 is to make friends. Develop a cadence of communication with those stakeholders and expectations around how you'll need to interface when the two of you need to work together. And develop an outline of your program. But... you too need to accomplish _something_, even if you're a 1 person team.
+  - I will note, there is no single archetype of a CISO. There's no single method that will work at every company. You as a CISO, security manager, etc will have to figure out what works at the company that you're at, that you can achieve with your bag of tricks.
+  - It's worth figuring out in that first 30/60/90 days a self-assessment of what areas you'll be able to excel at with your skillset, and which areas of the job you'll either need help, coaching, growth, or maybe you don't know what to do about but it's something you'll need to address.
+
+
+Words for our Engineer Friends
+  - Regardless if you’re an IC security engineer, or a CISO, this is the framework that you really need to follow.
+  - Startups are about output, shipping, and moving quickly. You have to get on board with that and at the end of the 90 days, or very shortly thereafter, you need to have done something.
+  - You also need to have developed the relationships that are going to be important for you. Just as hypotheticals, if you’re working with engineers you need to have met those people and understand what they are working on. If you’re working with executives you need to understand the company strategy and how each one fits in with that strategy, and how you’ll be working with them.
+
+Your behaviors are critical
+  - This is generic advice for working at any job, but I want you to know _why_ it’s important at a startup.
+  - Celebrate Achievements
+  - When you do something. You _MUST_ celebrate it. If you've worked at a smaller company  / startup they celebrate everything. Your security team has to adopt this, 1) because otherwise you will be irrelevant and people won't know what to do 2) because you have to work with other people do accomplish a lot of what you want to do. And THOSE people need the recognition and 
+  - When I was at Cloudflare I used to tell my team to take 20% of your time to shill your work, share it with the broader company. 20% is excessive but it made the point quite clear, that we need to be sharing. And it truly paid off majorly. People want to work with you when they know what you do, understand how to meet you where you're at, and 
+  - Clear Communications
+  - If you can't describe why something is important in 1 sentence, at most 2 sentences, it either isn't important or you need to figure out how to communicate more clearly. When people say "I couldn't get buy in" that's normally a communication problem. It either didn't sound important because it wasn't clear why it was, or it genuinely wasn't important so the company didn't want to solve it. 
+  - Genuine Interest in Others
+  - This is kind of an insane thing to need to recommend, it seems completely obvious, but you actually need to know what everyone at the company is doing. The reason is there's the marketing material on the website of what problems your company is solving, and then there's the nuts and bolts of how that happens. You're responsible for the nuts and bolts going properly, so the activities that everyone is doing in the company actually matter.
+  - You also need to have relationships formed for when things don’t go right you know who to talk to and how to get them into the warroom / tell them something needs attention.
+
+
+What not to do
+  - Too big of problems. "Trench warfare" problems. If it's going to take 6 months to figure out what to do then maybe don't do it. And then 1-2 years to do it, maybe figure out 10 things you could do instead in that time-frame and Ill bet the outcome is better. Unless that 1 big squeeze is really worth the juice.
+  - Expecting other teams to do all the work.
+  - I don't believe that security is a spectator sport. I truly believe that your team needs to be hands on in the trenches solving problems. That doens't always mean writing code, but this stuff isn't easy, anyone who's written a policy and then gone into the trenches immediately realizes there's 100 things the policy never considered. Whatever you do, don't just hold the clipboard on the sideline
+  - Moving too slow.
+  - These are startups we're talking about. If you're not moving fast then you're not cut out for the role. It's the whole point of what startups are.
+  - You need to bring a big sense of urgency
+  - You can do whatever you want, as long as:
+  - We can explain why it’s important in 1-2 sentences in a way that anyone will understand.
+  - You can actually complete it
+  - That was my advice for years managing my team because throughput is what matters
+
+Security Engineering
+  - Cloud Security fundamentals
+  - Prodsec and AppSec fundamentals
+  - Reviews
+  - Build Something
+  - Toil
+  - Bug bounty is amazing. It can be a lot of work. You NEED a place that outsiders can report bugs.
+  - You don’t need to staff a full bug bounty team, pay our hundreds of thousands in bug bounty payouts
+  - spin up a bunch of scanners and start responding / triaging every finding from scanners.
+  - Toil work is inherently going to slow you down. It’s entropy
+
+GRC
+  - In my first go around of this talk, companies like vanta and drata hadn’t really proliferated yet.
+  - This is a huge source of change that I think is good.
+  - It’s good that people are getting compliance certifications earlier and earlier these days. Companies establish some good practices earlier
+  - To be candid though I don’t always think these companies do much. If anything the value is just that companies are thinking about security earlier and it’s become easier to get started on your compliance journey without needing to hire specialized roles, or hire expensive auditors.
+
+Build a narrative
+  - Lastly, as a CISO you need a narrative about how security fits into your company.
+  - If you aren’t able to, you might end up fighting for budget and losing, and end up leaving and saying “They didn’t really care about security” and maybe you’re right, but it doesn’t matter at the end of the day.
+  - You need to be able to explain, in a way that makes sense to everyone, what 
+  - Understand how your team fits in to the larger company.
+  - "Secure Cloudflare Using Cloudflare" is an example. We were the first best customer of all of our products.
+  - That’s just how we figured out to fit in with the broader comapny, it worked. It’s important you do the same but it might be hard at a non-security company.
+  - Create collateral, blogs, information speaking to the security teams of other companies.
+  - Your customers do care. Be truthful and share the details. If you’re not able to do that you are not in a very transparent company and when push comes to shove it’s probably not a good place that you want to be.
+
+What not to do again
+  - A lot of things are not suitable to be done or even worried about in the early stages of a company. This might be controversial.
+  - There is a ton of things to do, this is probably a full year of work to do properly. If you spend 6 months on one thing then you’ll end up way behind on all the other things.
+  - If you are going to spend considerable effort on one task, make sure it’s worth the squeeze.
+  - Don’t waste your time. If you’re toiling away on something and there isn’t a good reason, or people within the company don’t understand it, you’re making your team worse.
+
+
+Build versus buy 
+  - Remember, throughput matters. One thing I’ll pick on is I sometimes see, and I’ve been victim of this in the past, security engineering teams spending a year or more on something they could buy for less than $50,000. That is very unwise. There are sometimes reasons for that, like stickiness, specificity of what you need, etc. I understand that you want to be cheap but the cost can massively add up over time and be orders of magnitude higher when you build it than buy.
+  - I also think there are times where you can build and save a ton of money. I have some examples of this with container security in particular. Sometimes you don’t need 
+  - I have seen companies spend millions of dollars in headcount and resources per year to save tens of thousands per year on something they could have bought
+  - Don’t spend 6 months or a year on something that you could buy for 20k-100k. 
+  - If you make 100k then the math ain't mathin
+  - you could have avoided buying a product for 100k by building it over the course of a year
+  - Let’s say you built a pixel perfect replacement of that thing.
+  - You’ve essentially 
+  - Slowed down progress by a year
+  - Accomplished what you could have in 1 day by buying something. 
+  - You might think you saved 100k but really if you just waited a year and bought the thing when you had budget, you could be 1 year ahead of where you were.
+  - Realistically these home-grown things don’t often last.
+  - You can’t buy everything though.
+  - I guarantee you that if you tried to spend $100MM a huge amount of money that most of us can’t fathom
+  - You could spend it in like 5 minutes by going full supermarket sweep running around on the RSA floor.
+
+
+Unsolicited Career Advice
+  - One of the things I’ve had to help people with more and more is their career aspirations, both as a manager, and as a mentor.
+  - I want to talk through a few personas who might work at a startup:
+  - The early engineer
+  - I have seen this person join a company, do well, and want to be promoted to Head of Security / CISO. It’s common that this person isn’t actually ready, but is very productive.
+  - I want to tell you talented engineers that there is a lot of time in your life to become a manager / be the head of security.
+  - It’s common for these people to jump around to different companies, and really you shouldn’t be afraid to do that if you don’t think you’re leveled appropriately or respected / appreciated based on your output. BUT… you should also be patient. Sometimes companies move more slowly than you think they should. SOmetimes you need to be the squeaky wheel. 
+  - The big company CISO
+  - If you’re the CISO congratulations you made it. It’s all Venture Capital dinners, advisorships, etc. When you join a startup you have to get to work. The biggest risk is you don’t really do anything. If this person doesn’t get headcount and doesn’t hire quickly then their security team is going to be bad especially if the company founders don’t want to buy a bunch of products.
+  - If you can't hire quickly, you'll be a year down the road and look back and accomplished little.
+  - Middle Managers who are now head of security
+  - You need to hire and build a team, or get your hands dirty. If you sit around not doing a lot and acting like a pure manager . I think middle managers who become heads of security who were recently engineers have the best chance of long term success. They are at a right place in their career to build a team and also grow with the company. Get your hands dirty then adapt to communicating at the level the other leaders are.
+  - Whenever you’re team building: focusing on building a diverse team from the beginning is so important because it’s hard to catch up later.
+
+Ending Thoughts
+  - Big companies get lost in the sauce of programs, organization, managers, politics, etc. Good security happens person to person which is easy at a startup. Don't forget that. At a big company and small company alike coverage is never 100%, and so really your left to prioritize and execute regardless of your environment. Losing the personal connections you had at a small company as your company gets bigger is a death sentence to your security team.
+
